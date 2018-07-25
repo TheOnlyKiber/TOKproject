@@ -1,2 +1,4 @@
-﻿  WindowsProject1.cpp
-c:\users\bogatyrev\source\repos\windowsproject1\windowsproject1\windowsproject1.cpp(32): error C2065: cout: необъявленный идентификатор
+﻿  stdafx.cpp
+  WindowsProject1.cpp
+  LINK : не найден или не выполнена сборка F:\Git\TOKproject\tokproject\WindowsProject1\Debug\WindowsProject1.exe при последней инкрементной компоновке; выполняется полная компоновка
+  WindowsProject1.vcxproj -> F:\Git\TOKproject\tokproject\WindowsProject1\Debug\WindowsProject1.exe
